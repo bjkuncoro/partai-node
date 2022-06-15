@@ -90,6 +90,6 @@ app.post('/get-pdf',async (req,res)=>{
     }
 })
 
-app.listen(8002, function () {
-  console.log('Example app listening on port 8002!')
+app.listen(8001, function () {
+  console.log('Example app listening on port 8001!')
 })
